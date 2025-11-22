@@ -20,7 +20,7 @@ jobs:
           - board: ESP32_GENERIC_C3
             variant: ""
             flash_size: 8
-            display: st7789
+            display: st7735
             indev: ft6x36
           - board: ESP32_GENERIC
             variant: SPIRAM
